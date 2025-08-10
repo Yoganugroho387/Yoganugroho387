@@ -1,38 +1,55 @@
-# 👋 Halo, Saya Yoga Nugroho
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Halo%2C+Saya+Yoga+Nugroho;Web+Developer+%26+IoT+Enthusiast;Fokus+di+PHP+%26+ESP32;Keep+Coding+%26+Innovating!" alt="Typing SVG" />
+</p>
 
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://instagram.com/yogaasz"><img src="https://img.shields.io/badge/Instagram-%40yogaasz-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/Yoganugroho387"><img src="https://img.shields.io/badge/GitHub-Yoganugroho387-181717?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## 🚀 Tentang Saya
 💻 **Web Developer & IoT Enthusiast**  
-🌱 Sedang belajar **Arduino**, **ESP32**, dan pengembangan **Website**  
-⚡ Fokus pada **PHP**, **JavaScript**, dan **IoT Integration**  
-📷 Instagram: [@yogaasz](https://instagram.com/yogaasz)  
+🌱 Sedang belajar **Arduino**, **ESP32**, dan **Website Development**  
+⚡ Fokus di **PHP**, **JavaScript**, dan integrasi **IoT**  
+🎯 *Goal*: Menciptakan solusi teknologi yang bermanfaat  
 
 ---
 
-## 📊 GitHub Stats
-![Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoganugroho387&show_icons=true&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Yoganugroho387&theme=darkhub)
-
-## 📌 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoganugroho387&layout=compact&theme=tokyonight)
+## 📊 Statistik GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoganugroho387&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yoganugroho387&theme=tokyonight&hide_border=true" height="165">
+</p>
 
 ---
 
-## 🔧 Teknologi & Tools
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=red)
+## 🏆 Pencapaian GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yoganugroho387&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies">
+</p>
+
+---
+
+## 📌 Bahasa & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,tailwind,arduino,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 🔥 Aktivitas Terbaru
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoganugroho387&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Hubungi Saya
 - 📷 Instagram: [@yogaasz](https://instagram.com/yogaasz)  
-- 💻 GitHub: [Yoganugroho387](https://github.com/Yoganugroho387)
+- 💻 GitHub: [Yoganugroho387](https://github.com/Yoganugroho387)  
 
 ---
 
-✨ *“Keep coding, keep innovating!”* 🚀
+<p align="center">✨ “Keep coding, keep innovating!” 🚀</p>
